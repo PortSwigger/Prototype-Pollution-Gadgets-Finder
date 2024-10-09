@@ -1,0 +1,13 @@
+Uuid: fcbc58b33fc1486d9a795dedba2ccbbb
+ExtensionType: 2
+Name: Prototype Pollution Gadgets Finder
+RepoName: prototype-pollution-gadgets-finder
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: Doyensec
+ShortDescription: Detect and analyze server-side prototype pollution vulnerabilities in web applications.
+EntryPoint: ppScanner.py
+BuildCommand: 
+SupportedProducts: Pro
